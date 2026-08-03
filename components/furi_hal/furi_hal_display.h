@@ -81,3 +81,5 @@ esp_lcd_panel_handle_t furi_hal_display_get_panel_handle(void);
 #ifdef __cplusplus
 }
 #endif
+
+
